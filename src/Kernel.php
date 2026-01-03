@@ -1,5 +1,5 @@
 <?php
-namespace ZeroPHP;
+namespace YadroPHP;
 
 use Bootstrap\Config\DotEnv;
 use Bootstrap\Config\ProjectMode;
